@@ -1,6 +1,6 @@
 # Droplet-Passage-time
 I have developed this code to calculate the speed of a droplet in a microchannel, passing through some optical LED detectors. 
-The challenge here is to read the input experimetal data correctly and to select the experimetal parameters like pressure, temperature exactly at each individual passage of the droplet from the detectors. 
+The main challenge here is to clean the input data, and to read the input experimetal data correctly and to select the experimetal parameters like pressure, temperature exactly at each individual passage of the droplet from the detectors. 
 
 Input data is a .tdms file, which has been written by experimental collaborators in a LABVIEW program.
 Having selected the correct input signals for each experiment, the droplet's passage time between detectors, is calculated by a cross correlation analysis of the signals.
