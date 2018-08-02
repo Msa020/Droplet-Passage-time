@@ -1,4 +1,4 @@
-# Droplet-Passage-time
+# Droplet-Speed
 I have developed this code to calculate the speed of a droplet in a microchannel, passing through some optical LED detectors. 
 The main challenge here is to clean the input data, and to read the input experimetal data correctly and to select the experimetal parameters like pressure, temperature exactly at each individual passage of the droplet from the detectors. 
 
